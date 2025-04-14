@@ -9,7 +9,7 @@ This project involves multiple stages of audio signal processing using MATLAB an
 ### 🧩 Files Description
 
 | File Name                | Description |
-|-------------------------|-------------|
+|--------------------------|-------------|
 | `Part1_Recording.m`      | Record and save an audio signal. |
 | `Part2_ShowSpectrum.m`   | Visualize the spectrum of the recorded audio. |
 | `Part3_Compress.m`       | Apply Non-linear Frequency Warping and quantization to compress the audio. |
